@@ -1,0 +1,7 @@
+public enum UiSfx
+{
+    BUTTON_PRESSED,
+    BUTTON_RELEASED,
+    TOGGLE_PRESSED,
+    TOGGLE_CHANGED
+}

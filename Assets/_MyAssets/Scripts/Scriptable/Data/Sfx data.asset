@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be0f3ab672a73d4d9b187d6d42ac743, type: 3}
+  m_Name: Sfx data
+  m_EditorClassIdentifier: 
+  buttonClickClip: {fileID: 8300000, guid: 4b703b55f4ed5894da63ed09eb65b19e, type: 3}
+  buttonReselaseClip: {fileID: 8300000, guid: 52c6313012966f24395cc758938fbbc4, type: 3}
+  togglePressedClip: {fileID: 8300000, guid: 24582b7d5e7e275429ef9879e20e4d42, type: 3}
+  toggleChangedClip: {fileID: 8300000, guid: df064980be0196c40b6bfbce6a1679c9, type: 3}
