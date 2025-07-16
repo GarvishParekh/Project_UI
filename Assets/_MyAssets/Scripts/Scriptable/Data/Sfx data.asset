@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buttonClickClip: {fileID: 8300000, guid: 4b703b55f4ed5894da63ed09eb65b19e, type: 3}
   buttonReselaseClip: {fileID: 8300000, guid: 52c6313012966f24395cc758938fbbc4, type: 3}
-  togglePressedClip: {fileID: 8300000, guid: 24582b7d5e7e275429ef9879e20e4d42, type: 3}
+  togglePressedClip: {fileID: 8300000, guid: df064980be0196c40b6bfbce6a1679c9, type: 3}
   toggleChangedClip: {fileID: 8300000, guid: df064980be0196c40b6bfbce6a1679c9, type: 3}
